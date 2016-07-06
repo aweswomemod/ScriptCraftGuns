@@ -1,4 +1,4 @@
-# BetterSurvival
+# Guns!
 Better living/dying experiences
 Our MyMinecraft Challenge
 By Diego, Harry, and Nick
